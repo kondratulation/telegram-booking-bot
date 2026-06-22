@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+env/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Database
+bookings.db
+
+# Secrets
+.env
+config.py
