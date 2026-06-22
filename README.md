@@ -1,2 +1,20 @@
-# telegram-booking-bot
-Telegram bot for customer booking automation using Python
+# Telegram Booking Bot
+
+Telegram bot for automating customer requests and bookings.
+
+## Features
+
+- User registration
+- Booking form
+- Data storage
+- Admin notifications
+
+## Technologies
+
+- Python
+- Aiogram
+- SQLite
+
+## Status
+
+In development
